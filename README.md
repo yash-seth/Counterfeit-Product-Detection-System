@@ -12,3 +12,6 @@ isn't genuine.
 Consists of a React frontend which comprises of a scanner (QR Code/NFC/Hologram) which will scan the embedded unique identifier present on the product
 and then check if the product is present on the companies product blockchain using the scanned identifier. The plan for the backend is to receive the scanned input from
 the front-end and check if the product is present on the specified blockchain such as Polygon. The app files are planned to be stored on the crust platform.
+
+## Origin
+The idea and product were developed as part of the HacKnight Hackathon.
