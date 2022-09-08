@@ -15,3 +15,6 @@ the front-end and check if the product is present on the specified blockchain su
 
 ## Origin
 The idea and product were developed as part of the HacKnight Hackathon organized by HackClub VITC in association with Crust and polygon.
+
+## Frontend Demo
+https://yash-seth.github.io/Counterfeit-Product-Detection-System-Frontend/
